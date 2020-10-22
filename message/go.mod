@@ -4,4 +4,4 @@ go 1.14
 
 replace github.com/farwydi/dating-x => ../
 
-require github.com/farwydi/dating-x v1.1.0
+require github.com/farwydi/dating-x v1.2.0
