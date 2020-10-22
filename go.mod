@@ -1,4 +1,4 @@
-module git.immo/repositories/b3w-deting
+module github.com/farwydi/dating-x
 
 go 1.14
 
