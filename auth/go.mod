@@ -1,7 +1,7 @@
-module git.immo/repositories/b3w-deting/auth
+module github.com/farwydi/dating-x/auth
 
 go 1.14
 
 replace github.com/farwydi/dating-x => ../
 
-require github.com/farwydi/dating-x v1.0.0 // indirect
+require github.com/farwydi/dating-x v1.1.0
