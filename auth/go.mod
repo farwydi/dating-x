@@ -1,4 +1,4 @@
-module git.immo/repositories/b3w-deting/auth
+module github.com/farwydi/dating-x/auth
 
 go 1.14
 
